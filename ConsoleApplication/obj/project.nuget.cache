@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+O0uwKxn5TpzV5l+N8FFiYk3FZ1rm6D2Q4dCFUh+U0s+aoaF2a1w+A/PTxhw4E6m/omw5Pr+TVr/s/nT5hTeLg==",
+  "success": true,
+  "projectFilePath": "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\ConsoleApplication\\ConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

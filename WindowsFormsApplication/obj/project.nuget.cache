@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uENZmP3ac6Qe4HoTL2M2c4epuUAYTV18jwR+rEoPBTVVmIq2muzdC5h4PX/HJMqJBFERbvoqqzpEWWn7NWK57A==",
+  "success": true,
+  "projectFilePath": "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\WindowsFormsApplication\\WindowsFormsApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

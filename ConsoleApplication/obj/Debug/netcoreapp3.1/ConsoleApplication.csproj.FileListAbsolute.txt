@@ -1,0 +1,49 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CopyComplete
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.genruntimeconfig.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CopyComplete
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.genruntimeconfig.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.dll
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.pdb
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.AssemblyReference.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfoInputs.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfo.cs
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CopyComplete
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.dll
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.pdb
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.genruntimeconfig.cache

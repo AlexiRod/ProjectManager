@@ -1,0 +1,94 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.CopyComplete
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.genruntimeconfig.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.UsersForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.Properties.Resources.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.ProjectsForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AddUserForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.EditTaskForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AddTaskForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.EditUsersForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AddProjectForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.GoalsForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AddProjectForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AddTaskForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AddUserForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.EditTaskForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.EditUsersForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.GoalsForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.ProjectsForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.Properties.Resources.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.UsersForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.CopyComplete
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.genruntimeconfig.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.exe
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.deps.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.runtimeconfig.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.runtimeconfig.dev.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.dll
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\WindowsFormsApplication.pdb
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.dll
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\bin\Debug\netcoreapp3.1\ProjectLibrary.pdb
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.AssemblyReference.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AddProjectForm.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AddTaskForm.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AddUserForm.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.EditTaskForm.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.EditUsersForm.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.GoalsForm.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.MainForm.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.ProjectsForm.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.Properties.Resources.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.UsersForm.resources
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.GenerateResource.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AssemblyInfoInputs.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.AssemblyInfo.cs
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.csproj.CopyComplete
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.dll
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.pdb
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\WindowsFormsApplication\obj\Debug\netcoreapp3.1\WindowsFormsApplication.genruntimeconfig.cache

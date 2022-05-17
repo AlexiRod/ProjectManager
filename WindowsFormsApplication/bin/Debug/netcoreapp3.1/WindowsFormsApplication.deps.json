@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WindowsFormsApplication/1.0.0": {
+        "dependencies": {
+          "ConsoleApplication": "1.0.0",
+          "ProjectLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WindowsFormsApplication.dll": {}
+        }
+      },
+      "ConsoleApplication/1.0.0": {
+        "dependencies": {
+          "ProjectLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApplication.dll": {}
+        }
+      },
+      "ProjectLibrary/1.0.0": {
+        "runtime": {
+          "ProjectLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormsApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

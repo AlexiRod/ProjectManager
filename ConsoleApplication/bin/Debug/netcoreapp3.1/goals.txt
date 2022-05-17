@@ -1,0 +1,17 @@
+ProjectLibrary.Epic^Algebra^23.02.2021 22:38:11^Открытая^False~Search Information;Make Presentation;Write Text;
+ProjectLibrary.Epic^Geometry^23.02.2021 22:40:18^В работе^False~Solve #356;Solve #357;Solve #358;
+ProjectLibrary.Epic^Trigonometry^23.02.2021 22:41:49^Завершенная^False~Search Information;
+ProjectLibrary.Epic^Pack Stuff^23.02.2021 23:03:10^В работе^False~Pack Tents;Buy Food;
+ProjectLibrary.Story^Search Information^23.02.2021 22:42:09^В работе^False~Alice;Bob;
+ProjectLibrary.Story^Find Place^23.02.2021 23:05:04^Завершенная^False~Dan;
+ProjectLibrary.Task^Solve #357^23.02.2021 22:44:46^В работе^True~Bob;
+ProjectLibrary.Task^Make Presentation^23.02.2021 22:42:39^В работе^False~Alice;
+ProjectLibrary.Task^Write Text^23.02.2021 22:42:50^В работе^False~Dan;
+ProjectLibrary.Task^Learn Linal^07.08.2021 18:10:37^В работе^True~Andrew;
+ProjectLibrary.Task^Solve #356^23.02.2021 22:44:30^Открытая^True~Alice;
+ProjectLibrary.Task^Solve #358^23.02.2021 22:44:56^Завершенная^True~Нет исполнителя;
+ProjectLibrary.Task^Pack Tents^23.02.2021 23:03:50^Завершенная^False~Нет исполнителя;
+ProjectLibrary.Task^Buy Food^23.02.2021 23:04:13^В работе^False~Нет исполнителя;
+ProjectLibrary.Bug^Topic #512 is incorrect^23.02.2021 22:43:20^В работе^False~Alice;
+ProjectLibrary.Bug^One tent is broken^23.02.2021 23:05:37^В работе^False~Bob;
+ProjectLibrary.Bug^Check #355^23.02.2021 22:45:12^Завершенная^False~Dan;

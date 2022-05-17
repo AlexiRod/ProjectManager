@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ProjectLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleApplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleApplication.dll": {}
+        }
+      },
+      "ProjectLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ProjectLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApplication/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApplication/ConsoleApplication.csproj",
+      "msbuildProject": "../ConsoleApplication/ConsoleApplication.csproj"
+    },
+    "ProjectLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ProjectLibrary/ProjectLibrary.csproj",
+      "msbuildProject": "../ProjectLibrary/ProjectLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ConsoleApplication >= 1.0.0",
+      "ProjectLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ax\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\WindowsFormsApplication\\WindowsFormsApplication.csproj",
+      "projectName": "WindowsFormsApplication",
+      "projectPath": "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\WindowsFormsApplication\\WindowsFormsApplication.csproj",
+      "packagesPath": "C:\\Users\\Ax\\.nuget\\packages\\",
+      "outputPath": "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\WindowsFormsApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ax\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\ConsoleApplication\\ConsoleApplication.csproj": {
+              "projectPath": "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\ConsoleApplication\\ConsoleApplication.csproj"
+            },
+            "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\ProjectLibrary\\ProjectLibrary.csproj": {
+              "projectPath": "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\ProjectLibrary\\ProjectLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

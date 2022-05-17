@@ -1,0 +1,28 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.pdb
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.deps.json
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.dll
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.pdb
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.csproj.AssemblyReference.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.AssemblyInfoInputs.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.AssemblyInfo.cs
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.dll
+D:\ВШЭ\Разное\1 курс\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\ProjectManager\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.pdb

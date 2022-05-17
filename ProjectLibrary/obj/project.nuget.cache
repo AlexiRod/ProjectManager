@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D9a53lpENHgZGRv/RBWgeO2VfBjnZq0QjjGyonAhi5zsRnR5w3lQ8+nHryOHx+I5jvlnaU5Pi39l3gGjKmtf1w==",
+  "success": true,
+  "projectFilePath": "D:\\ВШЭ\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\ProjectManager\\ProjectLibrary\\ProjectLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ax\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
